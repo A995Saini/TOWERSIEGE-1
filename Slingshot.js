@@ -1,3 +1,3 @@
 class Slingshot{
-    constructor()
+    constructor(){}
 }
